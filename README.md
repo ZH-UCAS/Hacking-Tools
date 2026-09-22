@@ -86,6 +86,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 ## Information Gathering
 
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
+- 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** – A comprehensive OSINT intelligence platform for gathering, correlating, and analyzing publicly available information from multiple sources.
