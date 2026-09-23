@@ -87,10 +87,11 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 ## Information Gathering
 
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
-- 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌐 **[IPLocation.net](https://www.iplocation.net/)** - IP geolocation lookup service for finding the location, ISP, and other details associated with IP addresses.
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
+- 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
+
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** – OSINTNova finds public information linked to usernames, emails, phone numbers, and more. It combines automated searches and AI-assisted reporting in one platform.
 - 🌐 **[Check-Host](https://check-host.net/)** - Network monitoring and diagnostic tool for checking host availability, connectivity, ping, HTTP, TCP, and DNS from multiple locations.
