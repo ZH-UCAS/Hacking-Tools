@@ -45,6 +45,7 @@
 - 🛡️ **[Burp Suite](https://portswigger.net/burp)** – Web application and API security testing platform.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning, discovery, and security auditing tool.
 - 💳 **[VCCGenerator](https://www.vccgenerator.org/)** – A developer-focused toolkit for generating and validating test card data, and checking card number formats.
+- 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup tool for finding geolocation, ISP, ASN, hostname, and other IP details.
 - 💥 **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)** – Exploitation and penetration testing framework.
 - 📡 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer for capturing and analyzing traffic.
 - 🌐 **[OWASP ZAP](https://www.zaproxy.org/)** – Web application security scanner and penetration testing proxy.
@@ -85,6 +86,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Information Gathering
 
+- 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌐 **[IPLocation.net](https://www.iplocation.net/)** - IP geolocation lookup service for finding the location, ISP, and other details associated with IP addresses.
