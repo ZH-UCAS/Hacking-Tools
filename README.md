@@ -46,7 +46,7 @@
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning, discovery, and security auditing tool.
 - 💳 **[VCCGenerator](https://www.vccgenerator.org/)** – A developer-focused toolkit for generating and validating test card data, and checking card number formats.
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup tool for finding geolocation, ISP, ASN, hostname, and other IP details.
-- 💥 **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)** – Exploitation and penetration testing framework.
+- ⚙️ [**Quttera Website Security API**](https://quttera.com/quttera-anti-malware-api-help) – API for malware detection, reputation checks, and website security analysis.
 - 📡 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer for capturing and analyzing traffic.
 - 🌐 **[OWASP ZAP](https://www.zaproxy.org/)** – Web application security scanner and penetration testing proxy.
 - 🔎 **[Nessus](https://www.tenable.com/products/nessus)** – Vulnerability assessment and security scanning platform.
@@ -288,6 +288,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 [**Burp Suite**](https://portswigger.net/burp) – Web security testing toolkit.
 - 🕵️ [**OWASP ZAP**](https://www.zaproxy.org/) – Open-source web application scanner.
 - 🐍 [**SQLmap**](https://github.com/sqlmapproject/sqlmap) – Automated SQL injection tool.
+- ⚙️ [**Quttera Website Security API**](https://quttera.com/quttera-anti-malware-api-help) - REST API for website malware detection, blacklist and reputation checks, SSL and port analysis, website integrity monitoring, and security assessment with compliance mapping.
 - 📜 [**Wappalyzer**](https://www.wappalyzer.com/) – Identify technologies on websites.
 - 🧑‍💻 [**Dirb**](https://gitlab.com/kalilinux/packages/dirb) – Web content scanner.
 - 📂 [**Gobuster**](https://github.com/OJ/gobuster) – Directory and DNS brute-forcing.
